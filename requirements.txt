@@ -1,0 +1,5 @@
+PyQt6>=6.4.0
+networkx>=3.0
+matplotlib>=3.6.0
+scapy>=2.4.5
+numpy>=1.21.0 
